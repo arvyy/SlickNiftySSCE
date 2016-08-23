@@ -1,0 +1,1 @@
+mvn clean install && java -Djava.library.path="./target/natives" -jar SSCE.jar
